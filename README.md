@@ -1,5 +1,6 @@
 ### MCP Server
 
+
 Spring AI를 활용해 구현한 MCP(Model Context Protocol) Server로
 LLM(Client/IDE/Agent)이 Git 등 외부 기능을 표준 MCP 규격으로 호출할 수 있도록 제공합니다.
 ---
